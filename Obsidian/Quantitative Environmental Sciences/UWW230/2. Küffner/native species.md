@@ -1,0 +1,1 @@
+Naturalized species that have the potential to spread over long distances. This definition explicitly excludes impact. In contrast, e.g. IUCN explicitly assumes that invasive species cause impacts to the economy, environment or health.

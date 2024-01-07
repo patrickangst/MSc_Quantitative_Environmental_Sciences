@@ -1,0 +1,1 @@
+Casual species: Those [[Alien species]] that do not form self-replacing populations in the invaded region and whose persistence depends on repeated introductions, e.g. ornamental plants.

@@ -1,0 +1,1 @@
+expected contribution to the population through both current and future reproduction

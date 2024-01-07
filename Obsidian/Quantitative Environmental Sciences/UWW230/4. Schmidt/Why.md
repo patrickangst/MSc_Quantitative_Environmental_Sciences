@@ -1,0 +1,2 @@
+* “Here, we define monitoring as the process of gathering information about some system state variable at different points in time for the purpose of assessing system state and drawing inferences about changes in state over time.”
+* The why question is: Why do you gather the information? If you know the state and temporal trends, what are you going to do?

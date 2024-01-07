@@ -1,0 +1,1 @@
+ **Bottleneck Effect:** is similar to the [[founder effect]]. The bottleneck effect occurs when a population undergoes a sharp reduction in size due to environmental events or other factors. However, the bottleneck effect is a population-wide event, while the [[founder effect]] involves a smaller, isolated group within the source population.

@@ -1,0 +1,1 @@
+Those [[Alien species]] that sustain self-replacing populations for several life cycles

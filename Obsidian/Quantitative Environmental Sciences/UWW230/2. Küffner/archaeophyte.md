@@ -1,0 +1,1 @@
+Plant species introduced through human activities before 1492 and mostly considered native. Many of them are on Red lists, E.g. three CH RL priority species.
